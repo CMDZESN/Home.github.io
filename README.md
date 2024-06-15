@@ -1,21 +1,9 @@
-# [hsBUPT.github.io]()
+# **Home**
 
------------------------------------------------------------------------------------------------
+## [点击这里查看效果](https://cmdzesn.simpcloud.bf/)
+___
+# **使用方式：**
 
-## This project is adapted from GitHub imsyy's home. You can fork it to your own repository and name it `username.github.io`, then run it!
+## 1.Fork此项目（名称格式：任意名称+github.io，如您要使用自己的域名，可不用添加github.io）
 
-### update log
-
-#### Ver 1.1
-
-**Search boxes and styles have been added to the original author, ~~and click events and search engines will be added later.~~** **Join the search engine and optimize the search experience.Join the search engine and optimize the search experience.**
-
-![search-btn](https://img1.imgtp.com/2023/06/03/7iz95ogk.png)
-
-![search-line](https://img1.imgtp.com/2023/06/03/bG5fqM9L.png)
-
-### Tips
-
-**After I add the search engine, You can set this Demo as the browser home page through the edge Settings.**
-
-![](https://img1.imgtp.com/2023/06/03/GSytnrP1.png)
+## 2.点击Settings，选择Pages
